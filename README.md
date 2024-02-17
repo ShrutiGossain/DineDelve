@@ -4,11 +4,11 @@
 The platform's user-friendly interface makes it easy for customers to navigate through menus, view detailed descriptions and images of dishes, and make informed decisions about their orders. 
 
 #Tech Stack
-<li>
-  <ul>React.js</ul>
-  <ul>Node.js</ul>
-  <ul>Express.js</ul>
-  <ul>MonogoDB</ul>
-  <ul>CSS</ul>
-  <u>Vercel</ul>
-</li>
+<ul>
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>MonogoDB</li>
+  <li>CSS</li>
+  <li>Vercel</li>
+</ul>
