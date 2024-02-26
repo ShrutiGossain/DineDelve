@@ -24,19 +24,19 @@
             {
                 "id": 1,
                 "image": "./dinner1.jpeg",
-                "title": "ROASTED LAMB RUMP",
+                "title": "VEG BIRYANI",
                 "category": "Dinner"
             },
             {
                 "id": 2,
                 "image": "./dinner2.png",
-                "title": "CITRUS CURED SALMON",
+                "title": "SHAAHI PANNER",
                 "category": "Dinner"
             },
             {
                 "id": 3,
                 "image": "./breakfast1.png",
-                "title": "PAN SEARED SEA BASS",
+                "title": "UTTAPAM",
                 "category": "Breakfast"
             },
             {
@@ -48,25 +48,25 @@
             {
                 "id": 5,
                 "image": "./lunch1.png",
-                "title": "BEEF BURGER MEAL",
+                "title": "BBQ SPICY PIZZA",
                 "category": "Lunch"
             },
             {
                 "id": 6,
                 "image": "./dinner4.png",
-                "title": "MUSSELS SOUP",
+                "title": "CREAMY TOMATO SOUP",
                 "category": "Dinner"
             },
             {
                 "id": 7,
                 "image": "./dinner5.png",
-                "title": "ITALIAN SPAGHETTI",
-                "category": "Dinner"
+                "title": "PAV BHAJI",
+                "category": "Breakfast"
             },
             {
                 "id": 8,
                 "image": "./dinner6.png",
-                "title": "GRILLED FISH",
+                "title": "MASALA DOSA",
                 "category": "Dinner"
             }
         ],

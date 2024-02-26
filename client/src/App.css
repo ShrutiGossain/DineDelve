@@ -348,24 +348,28 @@ nav svg {
   width: 100%;
 }
 .heading {
+  margin-left: 3%;
   font-weight: 200;
   font-size: 4rem;
   color: #111;
 }
 .about .container .banner .mid {
-  width: 65%;
+  margin-left: 3%;
+  width: 80%;
   font-size: 18px;
   font-weight: 300;
   letter-spacing: 2px;
   word-spacing: 5px;
 }
 .about .container .banner .top p {
+  margin-left: 3%;
   font-size: 18px;
   font-weight: 400;
   color: #111;
-  letter-spacing: 2px;
+  letter-spacing: 1.5px;
 }
 .about .container .banner a {
+  margin-left: 3%;
   border: 1px solid black;
   padding: 8px 28px;
   border-radius: 30px;
